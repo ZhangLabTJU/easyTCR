@@ -1,1 +1,13 @@
-easyTCR 1.0
+# easyTCR 1.0
+
+## Setup
+
+Install this package:
+
+```
+pip install -i https://pypi.org/simple/ easyTCR==0.0.2
+```
+
+## Usage
+
+see `src/easyTCR/desc.ipynb`
