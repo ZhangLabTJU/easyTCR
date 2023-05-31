@@ -1,5 +1,9 @@
 # easyTCR 1.0
 
+
+
+**easyTCR**(**E**fficient **A**nalytical **S**olutions for **Y**our **T** **C**ell **R**epertoires)
+
 ## Setup
 
 Install this package:
